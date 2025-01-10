@@ -2,7 +2,7 @@
 
 ## 9A Sınıfı Öğrenci Repoları
 
-> Aşağıda 9A sınıfındaki öğrencilerin GitHub profillerine bağlantılar bulunmaktadır:
+> 9A Sınıfındakaki öğrencilerin listesi:
 
 <ul class="list">
     <li><a href="https://github.com/DilanKaya2013">DİLAN</a></li>
