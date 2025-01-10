@@ -17,24 +17,11 @@
             <li><a href="https://github.com/berrayildiz">BERRA ESLEM</a></li>
             <li><a href="https://github.com/nergiscelikbas">NERGİS</a></li>
             <li><a href="https://github.com/sinem49">SİNEM</a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
         </ul>
 
         
@@ -70,6 +57,6 @@
     <li><a href="https://github.com/medinedefne">MEDİNE K.</a></li>
     <li><a href="https://github.com/sukeynacelik1473">SUKEYNA</a></li>
     <li><a href="https://github.com/lynx4r">RAVZA</a></li>
-    <li><a href="">ÖĞRENCİ</a></li>
-    <li><a href="">ÖĞRENCİ</a></li>
+    <li><a href="#">ÖĞRENCİ</a></li>
+    <li><a href="#">ÖĞRENCİ</a></li>
 </ul>
