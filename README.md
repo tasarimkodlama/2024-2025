@@ -3,7 +3,44 @@
 ## 9A Sınıfı Öğrenci Repoları
 
 > 9A Sınıfındakaki öğrencilerin listesi:
+<ul class="list">
+            <li><a href="https://github.com/dilazeynepy">DİLA ZEYNEP</a></li>
+            <li><a href="https://github.com/Canan77745">CANAN</a></li>
+            <li><a href="https://github.com/Nevrakurtuldu">NEVRA</a></li>
+            <li><a href="https://github.com/elanuraydin13">ELANUR A.</a></li>
+            <li><a href="https://github.com/Berfinesme">BERFİN E.</a></li>
+            <li><a href="https://github.com/nurcanik05">HİLALNUR C.</a></li>
+            <li><a href="https://github.com/Solmaz520">SOLMAZ</a></li>
+            <li><a href="https://github.com/esikasakami">ESİLA</a></li>
+            <li><a href="https://github.com/ecrinberra">ECRİN BERRA</a></li>
+            <li><a href="https://github.com/Semanurilkbhr5252">SEMANUR</a></li>
+            <li><a href="https://github.com/berrayildiz">BERRA ESLEM</a></li>
+            <li><a href="https://github.com/nergiscelikbas">NERGİS</a></li>
+            <li><a href="https://github.com/sinem49">SİNEM</a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
 
+        
+## 11A Sınıfı Öğrenci Repoları
+
+>11A Sınıfındakaki öğrencilerin listesi:
 <ul class="list">
     <li><a href="https://github.com/DilanKaya2013">DİLAN</a></li>
     <li><a href="https://github.com/hiranur13">HİRANUR</a></li>
