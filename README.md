@@ -43,12 +43,12 @@
             <li><a href="https://github.com/Aslikarahnk?tab=repositories">ASLI</a></li>
             <li><a href="https://github.com/elanurseker?tab=repositories">ELANUR Ş.</a></li>
             <li><a href="https://github.com/2010damla?tab=repositories">DAMLA AZRA</a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
+            <li><a href="#">ÖĞRENCİ</a></li>
             <li><a href="https://github.com/58hilal/python/tree/main?tab=repositories">HİLAL58</a></li>
         </ul>
 ## 11A Sınıfı Öğrenci Repoları
